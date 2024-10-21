@@ -14,9 +14,9 @@ I'm a passionate gamer and programmer currently studying Game Programming at NSC
 - **Tools:** Visual Studio, Rider ,Git
 
 ## 📫 Get in Touch
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/noahvaters-/))
-- [Instagram]([your-twitter-url](https://www.instagram.com/therealnoahvaters/profilecard/?igsh=MWEzb3R5NXU5bzdleQ==))
-- [Portfolio]([your-portfolio-url](https://noahvatersnscc.wixstudio.io/noahvatersportfolio))
+- [LinkedIn](https://www.linkedin.com/in/noahvaters-/)
+- [Instagram](https://www.instagram.com/therealnoahvaters/profilecard/?igsh=MWEzb3R5NXU5bzdleQ==)
+- [Portfolio](https://noahvatersnscc.wixstudio.io/noahvatersportfolio)
 
 Feel free to check out my projects below!
 
