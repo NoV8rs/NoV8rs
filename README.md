@@ -28,7 +28,7 @@ A Hardcore Platformer featuring Squeak the Mouse
 Tech Demo of what I learned in Unity as my 1st year at NSCC.  
 Picture HERE 
 - [Horde No More](https://github.com/Impuse007/Horde_No_More)  
-Still in development, Horde No More is a Wave based game   
+Horde No More is a Wave based game - Released in 2024 
 ![Screenshot 2024-10-20 191226](https://github.com/user-attachments/assets/4de6d3b3-c224-465c-90d2-6676d1f292c8)
 
 
