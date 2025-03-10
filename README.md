@@ -9,8 +9,8 @@ I'm a passionate gamer and programmer currently studying Game Programming at NSC
 - 🌟 Always looking to improve my skills and learn new things
 
 ## 🛠️ Technologies & Tools
-- **Languages:** C#
-- **Game Engines:** Unity
+- **Languages:** C# C++ GDScript
+- **Game Engines:** Unity Godot Unreal
 - **Tools:** Visual Studio, Rider ,Git
 
 ## 📫 Get in Touch
