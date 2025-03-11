@@ -3,10 +3,9 @@
 I'm a passionate gamer and programmer currently studying Game Programming at NSCC. I love creating games using Unity and C#, and I'm dedicated to making enjoyable experiences for everyone.
 
 ## 🌱 About Me
-- 🎮 Game Developer
-- 📚 Student at NSCC
+- 🎮 Programmer
+- 📚 2nd Programmer at NSCC
 - 💻 Working with Unity and C#
-- 🌟 Always looking to improve my skills and learn new things
 
 ## 🛠️ Technologies & Tools
 - **Languages:** C#, C++, GDScript
