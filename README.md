@@ -14,7 +14,6 @@ I'm a passionate gamer and programmer currently studying Game Programming at NSC
 
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/noahvaters-/)
-- [Instagram](https://www.instagram.com/therealnoahvaters/profilecard/?igsh=MWEzb3R5NXU5bzdleQ==)
 - [Portfolio](https://noahvatersnscc.wixstudio.io/noahvatersportfolio)
 
 Feel free to check out my projects below!
@@ -31,5 +30,5 @@ Horde No More is a Wave based game - Released in 2024
 ![Screenshot 2024-10-20 191226](https://github.com/user-attachments/assets/4de6d3b3-c224-465c-90d2-6676d1f292c8)
 
 
-There is a lot more Projects in my repos  
-Thanks for reading my Readme
+There is a lot more projects in the works and will be added to my portfolio later and on GitHub too.
+Working on an Unreal project and a Unity project.
