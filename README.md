@@ -1,10 +1,8 @@
 # Hi there, I'm Noah Vaters! 👋
 
-I'm a passionate gamer and programmer currently studying Game Programming at NSCC. I love creating games using Unity and C#, and I'm dedicated to making enjoyable experiences for everyone.
-
 ## 🌱 About Me
 - 🎮 Programmer
-- 📚 2nd Programmer at NSCC
+- 📚 NSCC Programming Degree
 - 💻 Working with Unity and C#
 
 ## 🛠️ Technologies & Tools
