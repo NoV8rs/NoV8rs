@@ -29,4 +29,4 @@ Horde No More is a Wave based game - Released in 2024
 
 
 There is a lot more projects in the works and will be added to my portfolio later and on GitHub too.
-Working on an Unreal project and a Unity project.
+Currently working on the biggest project to date.
