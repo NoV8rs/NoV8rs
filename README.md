@@ -1,32 +1,36 @@
-# Hi there, I'm Noah Vaters! 👋
+# Hi there — I'm Noah Vaters! 👋
+
+Welcome! I'm a game developer and programmer working primarily with Unity and C#. Below you'll find a short overview of my skills, links to my portfolio, and some of the projects I've been working on.
 
 ## 🌱 About Me
-- 🎮 Programmer
-- 📚 NSCC Programming Degree
-- 💻 Working with Unity and C#
+- 🎮 Game programmer
+- 🎓 NSCC — Programming
+- 💻 Main tools: Unity and C#
 
 ## 🛠️ Technologies & Tools
-- **Languages:** C#, C++, GDScript
-- **Game Engines:** Unity, Godot, Unreal
-- **Tools:** Visual Studio, Rider, Git
+- Languages: C#, C++, GDScript
+- Game Engines: Unity, Godot, Unreal Engine
+- IDEs / Tools: Visual Studio, Rider, Git
 
-## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/noahvaters-/)
-- [Portfolio](https://noahvatersnscc.wixstudio.io/noahvatersportfolio)
-
-Feel free to check out my projects below!
+## 📫 Get in touch
+- LinkedIn: https://www.linkedin.com/in/noahvaters-/
+- Portfolio: https://noahvatersnscc.wixstudio.io/noahvatersportfolio
 
 ## 🚀 Projects
-- [Squeak & Speed](https://github.com/NoV8rs/Squeak-Speed)  
-A Hardcore Platformer featuring Squeak the Mouse
-![image_2024-10-20_225717121](https://github.com/user-attachments/assets/a5c0e7ab-e187-404c-b68e-2800c1351c50)
-- [Unity Tech Demo](https://github.com/NoV8rs/Tech-Demo)  
-Tech Demo of what I learned in Unity as my 1st year at NSCC.  
-Picture HERE 
-- [Horde No More](https://github.com/Impuse007/Horde_No_More)  
-Horde No More is a Wave based game - Released in 2024 
-![Screenshot 2024-10-20 191226](https://github.com/user-attachments/assets/4de6d3b3-c224-465c-90d2-6676d1f292c8)
+- Squeak & Speed — A hardcore platformer featuring Squeak the Mouse  
+  Repository: https://github.com/NoV8rs/Squeak-Speed  
+  (Screenshots and build details are available in the project repo.)
 
+- Unity Tech Demo — Tech demo showcasing what I learned during my first year at NSCC  
+  Repository: https://github.com/NoV8rs/Tech-Demo  
+  (See the repository for images and notes.)
 
-There is a lot more projects in the works and will be added to my portfolio later and on GitHub too.
-Currently working on the biggest project to date.
+- Horde No More — A wave-based action game (released 2024)  
+  Repository: https://github.com/Impuse007/Horde_No_More  
+  (Screenshots and release info available in the project repo.)
+
+There are many more projects in progress — I regularly add completed work to my portfolio and GitHub. I'm currently focused on the biggest project I've worked on to date and will share updates as it progresses.
+
+---
+
+Thanks for stopping by — feel free to reach out on LinkedIn or check my portfolio for more samples of my work!
