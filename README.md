@@ -13,7 +13,7 @@ Welcome! I'm a game developer and programmer working primarily with Unity and C#
 - IDEs / Tools: Visual Studio, Rider, Git
 
 ## 📫 Get in touch
-- LinkedIn: https://www.linkedin.com/in/noahvaters-/
+- LinkedIn: [https://www.linkedin.com/in/noahvaters-/](https://www.linkedin.com/in/noah-vaters/)
 - Portfolio: https://noahvatersnscc.wixstudio.io/noahvatersportfolio
 
 ## 🚀 Projects
