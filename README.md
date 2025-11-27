@@ -14,7 +14,7 @@ Welcome! I'm a game developer and programmer working primarily with Unity and C#
 
 ## 📫 Get in touch
 - LinkedIn: [https://www.linkedin.com/in/noahvaters-/](https://www.linkedin.com/in/noah-vaters/)
-- Portfolio: https: https://nov8rs.github.io/
+- Portfolio: https://nov8rs.github.io/
 
 ## 🚀 Projects
 - Squeak & Speed — A hardcore platformer featuring Squeak the Mouse  
