@@ -2,13 +2,8 @@
 
 Welcome! I'm a game developer and programmer working primarily with Unity and C#. Below you'll find a short overview of my skills, links to my portfolio, and some of the projects I've been working on.
 
-## 🌱 About Me
-- 🎮 Game programmer
-- 🎓 NSCC — Programming
-- 💻 Main tools: Unity and C#
-
 ## 🛠️ Technologies & Tools
-- Languages: C#, C++, GDScript
+- Languages: C#, C++
 - Game Engines: Unity, Godot, Unreal Engine
 - IDEs / Tools: Visual Studio, Rider, Git
 
